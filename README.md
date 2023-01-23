@@ -268,8 +268,7 @@ of the temple in the early 20th century
 ![image](https://user-images.githubusercontent.com/119395610/213209305-a78c3b0d-04de-4e2f-8373-3413dcfd9c42.png)
 ![image](https://user-images.githubusercontent.com/119395610/213209387-81bbd3aa-7051-4599-a46c-a84e8226837b.png)
 ![image](https://user-images.githubusercontent.com/119395610/213209480-ae693ecb-687d-4c3f-ab6e-e5edfc525ce9.png)
-file:///home/sec/Pictures/Screenshots/Screenshot%20from%202023-01-23%2009-17-21.png![image](https://user-images.githubusercontent.com/119395610/213962845-671556fd-48b2-4b69-87d0-08b30c687724.png)
-
+![image](https://user-images.githubusercontent.com/119395610/213963008-77836a50-b7ad-4499-b39a-b9510361e64c.png)
 
 ## Result:
 The program for implementing image map is executed successfully.
