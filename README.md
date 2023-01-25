@@ -15,6 +15,7 @@ Run the Django server and execute the HTML files.
 
 ## Code:
 map.html:
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -40,6 +41,8 @@ href="/HighCourt/">
 </map>
 </body>
 </html>
+```
+```
 central.html:
 <!DOCTYPE html>
 <html lang="en">
@@ -86,6 +89,8 @@ as a landmark for the city and the state.
 </p>
 </body>
 </html>
+```
+```
 highcourt.html:
 <!DOCTYPE html>
 <html lang="en">
@@ -129,7 +134,10 @@ justice.
 </p>
 </body>
 </html>
+```
+
 museum.html:
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -176,7 +184,9 @@ to touch or take photographs.
 </p>
 </body>
 </html>
+```
 stadium.html:
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -217,7 +227,9 @@ the stadium as their home ground.
 </p>
 </body>
 </html>
+```
 temple.html:
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -260,9 +272,11 @@ of the temple in the early 20th century
 </p>
 </body>
 </html>
+```
 
 ## Output:
-![image](https://user-images.githubusercontent.com/119395610/213208771-4b3233e5-df79-406f-b62a-e734e9685f8d.png)
+![WhatsApp Image 2023-01-25 at 11 50 04](https://user-images.githubusercontent.com/119395610/214494614-4cd760c0-e3a5-4bec-a506-6eec01e81285.jpg)
+
 ![image](https://user-images.githubusercontent.com/119395610/213208936-bdfe6ed7-6081-4ce8-8068-3a185b00db42.png)
 ![image](https://user-images.githubusercontent.com/119395610/213209201-f2e143cc-eab5-47c7-a455-4b2234fd59a4.png)
 ![image](https://user-images.githubusercontent.com/119395610/213209305-a78c3b0d-04de-4e2f-8373-3413dcfd9c42.png)
